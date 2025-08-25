@@ -1,15 +1,15 @@
 /* --- Base Styles & Variables --- */
 :root {
-    --background-dark: #2c3e50;
-    --background-light: #34495e;
-    --text-color: #80d0ff; 
-    --accent-color: #f1c40f;
+    --background-dark: #f1cbcd;
+    --background-light: #f1cbcd;
+    --text-color: #FFFFDB; 
+    --accent-color: #FFF5E3;
     --divider-color: rgba(255, 255, 255, 0.5);
 }
 
 body {
     background: linear-gradient(to bottom right, #FFC5D3, #F5DCE0);
-    background-color: #F5DCE0;
+    background-color: #F8EDEB;
     font-family: 'Source Code Pro', monospace;
     color: var(--text-color);
     display: flex;
